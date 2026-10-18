@@ -1,0 +1,9 @@
+{
+  "split": "testing",
+  "amostras": 8000,
+  "processadas": 8000,
+  "falhas": 0,
+  "largura_media": 106.301625,
+  "altura_media": 59.236,
+  "tempo_medio_ms": 0.2982408056375334
+}
